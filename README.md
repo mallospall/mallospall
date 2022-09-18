@@ -30,9 +30,10 @@
 My skills
 </h2>
 
-<p dir="auto"><br><br></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cHqKAAIYc6sIRsHFjW/giphy.gif" width="300"/>
+</div>
 
-<div align="center" dir="auto">
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/98b1ccd26dea8388b4edb81ff70e96dad6e96bfef05304431597f1f0534b6bb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/98b1ccd26dea8388b4edb81ff70e96dad6e96bfef05304431597f1f0534b6bb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&amp;logo=javascript" style="max-width: 100%;"></a>
 <img src="https://camo.githubusercontent.com/fddeaae4219a73ca17d948401f950d907216ac9a6cf7f8f709b0793760833436/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&amp;logo=typescript" style="max-width: 100%;">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4564aa5a220b5ac882e4872ae4f5c82bcfb02d495d29c2952b214ef1c5189f96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/4564aa5a220b5ac882e4872ae4f5c82bcfb02d495d29c2952b214ef1c5189f96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react" style="max-width: 100%;"></a>
